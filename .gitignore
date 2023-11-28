@@ -1,7 +1,7 @@
 # Ignorar directorios generados por Visual Studio
 .vs/
-EjerciciosC-Sharp/bin/
-EjerciciosC-Sharp/obj/
+/bin/
+/obj/
 
 # Ignorar archivos específicos generados por Visual Studio
 *.AssemblyAttributes.cs
