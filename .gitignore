@@ -1,0 +1,19 @@
+# Ignorar directorios generados por Visual Studio
+.vs/
+EjerciciosC-Sharp/bin/
+EjerciciosC-Sharp/obj/
+
+# Ignorar archivos específicos generados por Visual Studio
+*.AssemblyAttributes.cs
+*.BuildWithSkipAnalyzers
+*.CoreCompileInputs.cache
+*.FileListAbsolute.txt
+*.dll
+*.genruntimeconfig.cache
+*.pdb
+*.sourcelink.json
+apphost.exe
+
+# Ignorar directorios específicos generados por Visual Studio
+ref/
+refint/
